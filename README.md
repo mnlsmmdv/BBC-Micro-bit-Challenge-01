@@ -9,6 +9,6 @@ The program is to only be executed on the BBC Micro:bit device. Attempts to exec
 
 ## Prerequisites
 #### 1 - BBC Micro:bit physical device
-#### 2 - Computer running either Windows, MacOS, or Linux
+#### 2 - Computer running either Windows 8-10, currently supported versions of MacOS and Linux
 #### 3 - Micro USB to USB cable
 #### 4 - Mbed Account with specifications done to execute and edit the source code online
