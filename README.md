@@ -8,7 +8,7 @@ The program chosen for Challenge 01 is the "Emotion Badge". It is a beginner lev
 The program is to only be executed on the BBC Micro:bit device. Attempts to execute the C++ source code intended for this device and Challenge 01 only on any other IOT device has the chance of not to execute and probably run in to errors. 
 
 ## Prerequisites
-1 - BBC Micro:bit physical device
-2 - Computer running either Windows, MacOS, or Linux
-3 - Micro USB to USB cable
-4 - Mbed Account with specifications done to execute and edit the source code online
+### 1 - BBC Micro:bit physical device
+### 2 - Computer running either Windows, MacOS, or Linux
+### 3 - Micro USB to USB cable
+### 4 - Mbed Account with specifications done to execute and edit the source code online
