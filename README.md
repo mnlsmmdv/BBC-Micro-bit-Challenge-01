@@ -13,3 +13,8 @@ The program is to only be executed on the BBC Micro:bit device. Attempts to exec
 #### 2 - Computer running either Windows 8-10, currently supported versions of MacOS and Linux
 #### 3 - Micro USB to USB cable
 #### 4 - Mbed Account with specifications done to execute and edit the source code online
+
+# Contact
+#### Name: Ahmed Affaan
+#### Country: Maldives
+#### Email: mnlsmmdv13@protonmail.com
