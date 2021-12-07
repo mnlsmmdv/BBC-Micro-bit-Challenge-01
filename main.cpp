@@ -2,9 +2,7 @@
 Author: Ahmed Affaan
 Country: Maldives
 Language: C++
-Email: mnlsmmdv13@protonmail.com
-GitHub: https://github.com/mnlsmmdv13
-LinkedIn: https://www.linkedin.com/in/ahmed-affaan-422731171
+GitHub: https://github.com/mnlsmmdv
 //*/
 
 // Emotion Badge Program for BBC micro:bit
