@@ -17,5 +17,3 @@ The program is to only be executed on the BBC Micro:bit device. Attempts to exec
 # Contact
 #### Name: Ahmed Affaan
 #### Country: Maldives
-#### Email: mnlsmmdv13@protonmail.com
-
