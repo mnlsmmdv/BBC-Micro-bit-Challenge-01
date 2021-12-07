@@ -3,7 +3,6 @@ Author: Ahmed Affaan
 Country: Republic of Maldives
 Language: C++
 File Type: .cpp
-GitHub: https://github.com/mnlsmmdv
 //*/
 
 // Emotion Badge Program for BBC micro:bit
