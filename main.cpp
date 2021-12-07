@@ -1,7 +1,8 @@
 /*
 Author: Ahmed Affaan
-Country: Maldives
+Country: Republic of Maldives
 Language: C++
+File Type: .cpp
 GitHub: https://github.com/mnlsmmdv
 //*/
 
