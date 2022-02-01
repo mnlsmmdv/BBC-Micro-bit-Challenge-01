@@ -14,6 +14,6 @@ The program is to only be executed on the BBC Micro:bit device. Attempts to exec
 #### 3 - Micro USB to USB cable
 #### 4 - Mbed Account with specifications done to execute and edit the source code online
 
-# Contact
+# Contact Details
 #### Name: Ahmed Affaan
 #### Country: Maldives
