@@ -1,10 +1,12 @@
 /*
-Author: Ahmed Affaan
-Country: Republic of Maldives
-Language: C++
-File Type: .cpp
-Description: Emotion Badge Program for BBC micro:bit
-Note: -
+Name: Ahmed Affaan                                  
+Title: main.cpp
+Folder: BBC-MICRO-BIT-CHALLENGE-01                            
+Date: 02/02/2022                                    
+Country: Republic of Maldives                                                       
+Description: Emotion Badge Program for BBC micro:bit                                       
+Note: Uncomment codes to execute and comment 
+them when not in use.                         
 //*/
 
 #include "MicroBit.h"
